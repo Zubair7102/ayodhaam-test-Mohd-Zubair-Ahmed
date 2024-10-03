@@ -2,6 +2,8 @@
 
 A simple and intuitive Todo List application built with React.js that allows users to create, manage, and filter tasks efficiently. The application features a dark mode toggle, a search functionality, and an easy-to-use interface.
 
+![Todo List App](https://github.com/Zubair7102/ayodhaam-test-Mohd-Zubair-Ahmed/blob/main/todo.png)
+
 ## Features
 
 - **Add Notes**: Quickly add new tasks to your todo list.
